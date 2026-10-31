@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 110">
+  <ellipse cx="65" cy="94" rx="54" ry="12" fill="rgba(44,36,27,0.28)"/>
+  <!-- Main Hall -->
+  <rect x="22" y="42" width="86" height="48" rx="3" fill="#e8d8b9" stroke="#3d2b1f" stroke-width="3"/>
+  <!-- Stone Chimney -->
+  <rect x="88" y="18" width="12" height="30" fill="#8c8275" stroke="#3d2b1f" stroke-width="2.5"/>
+  <!-- Steep Shingle Roof -->
+  <path d="M14 46 L65 14 L116 46 Z" fill="#a64b3b" stroke="#3d2b1f" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arched Entrance -->
+  <path d="M56 90 L56 64 A9 9 0 0 1 74 64 L74 90 Z" fill="#5c3a21" stroke="#3d2b1f" stroke-width="2.5"/>
+</svg>
+

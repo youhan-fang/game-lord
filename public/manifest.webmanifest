@@ -1,0 +1,19 @@
+{
+  "name": "Medieval Lordship — 中世纪领地治理",
+  "short_name": "MedievalLord",
+  "description": "9—11世纪英格兰风格中世纪领地经营模拟游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c241b",
+  "theme_color": "#2c241b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

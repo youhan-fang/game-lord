@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 86">
+  <ellipse cx="48" cy="74" rx="38" ry="9" fill="rgba(44,36,27,0.28)"/>
+  <!-- Stone Base -->
+  <rect x="20" y="48" width="46" height="24" rx="2" fill="#9e9589" stroke="#3d2b1f" stroke-width="2.5"/>
+  <!-- Timber Upper Floor -->
+  <rect x="18" y="30" width="50" height="20" rx="2" fill="#f0dfc8" stroke="#3d2b1f" stroke-width="2.5"/>
+  <!-- Roof -->
+  <path d="M12 32 L43 10 L74 32 Z" fill="#c86d51" stroke="#3d2b1f" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Waterwheel -->
+  <circle cx="72" cy="56" r="16" fill="#8b5a2b" stroke="#3d2b1f" stroke-width="2.5"/>
+  <circle cx="72" cy="56" r="5" fill="#d9a441" stroke="#3d2b1f" stroke-width="2"/>
+  <line x1="56" y1="56" x2="88" y2="56" stroke="#3d2b1f" stroke-width="2"/>
+  <line x1="72" y1="40" x2="72" y2="72" stroke="#3d2b1f" stroke-width="2"/>
+</svg>
+

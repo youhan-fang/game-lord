@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 56">
+  <!-- Shadow -->
+  <ellipse cx="32" cy="48" rx="24" ry="6" fill="rgba(44,36,27,0.25)"/>
+  <!-- Timber & Wattle Walls -->
+  <rect x="14" y="26" width="36" height="20" rx="2" fill="#f3e5ab" stroke="#3d2b1f" stroke-width="2.5"/>
+  <line x1="26" y1="26" x2="26" y2="46" stroke="#5c4033" stroke-width="2"/>
+  <line x1="38" y1="26" x2="38" y2="46" stroke="#5c4033" stroke-width="2"/>
+  <!-- Door -->
+  <rect x="29" y="34" width="6" height="12" rx="1" fill="#6e472b" stroke="#3d2b1f" stroke-width="1.5"/>
+  <!-- Thatched Roof -->
+  <path d="M8 28 L32 10 L56 28 Z" fill="#e2b659" stroke="#3d2b1f" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M14 24 L32 12 L50 24" fill="none" stroke="#c8963e" stroke-width="2"/>
+</svg>
+
